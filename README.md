@@ -25,7 +25,7 @@ To detect and localize **moving vehicles in foggy conditions** by enhancing cont
 
 | Input (Foggy Footage) | Output (Detected Vehicles) |
 |------------------------|----------------------------|
-| ![Input](input.gif)    | ![Output](output.gif)      |
+| ![Input](./media/vehicles in fog input.mp4)    | ![Output](/media/vehicle detection output.gif)      |
 
 ---
 

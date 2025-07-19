@@ -25,7 +25,7 @@ To detect and localize **moving vehicles in foggy conditions** by enhancing cont
 
 | Input (Foggy Footage) | Output (Detected Vehicles) |
 |------------------------|----------------------------|
-| ![vehicles in fog input](https://github.com/VedikaSawant/vehicle-detection-bad-weather-cv/blob/main/media/vehicles%20in%20fog%20input.mp4) | ![vehicle detection output](https://github.com/VedikaSawant/vehicle-detection-bad-weather-cv/blob/main/media/vehicle%20detection%20output.gif)      |
+| ![vehicles in fog input](https://raw.github.com/VedikaSawant/vehicle-detection-bad-weather-cv/blob/main/media/vehicles%20in%20fog%20input.mp4) | ![vehicle detection output](https://github.com/VedikaSawant/vehicle-detection-bad-weather-cv/blob/main/media/vehicle%20detection%20output.gif)      |
 
 ---
 

@@ -91,6 +91,15 @@ https://github.com/user-attachments/assets/5fa04fb9-5ef8-4cbc-9aa2-6eeba5715703
 
 ---
 
+## 🔭 Future Scope
+
+- **Multi-Weather Support**: Extend detection to rainy, snowy, and low-light/night-time conditions using specialized enhancement techniques.
+- **Deep Learning Enhancements**: Integrate optical flow or train segmentation models on weather-specific datasets for improved accuracy.
+- **Edge Deployment**: Optimize the pipeline for real-time inference on devices like NVIDIA Jetson or Raspberry Pi.
+- **Vehicle Tracking & Analytics**: Add multi-object tracking and traffic analytics for smart surveillance applications.
+
+---
+
 ## 📚 References
 
 - [PeerJ CS Research Paper](https://peerj.com/articles/cs-962/)

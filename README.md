@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/5fa04fb9-5ef8-4cbc-9aa2-6eeba5715703
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technologies and Tools Used
 
 - `Python`
 - `OpenCV`
